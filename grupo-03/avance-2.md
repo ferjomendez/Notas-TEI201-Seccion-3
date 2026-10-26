@@ -1,0 +1,16 @@
+# Grupo 3: Avance 2
+
+Repo: JoacoAgurto/Monitoreo-electrico-eficiente-IOT-TEI201-GRUPO-03-. Integrantes: Vasco Urrutia, Joaquín Agurto e Ignacio Mora.
+
+| Criterio | Nota | Observación |
+|---|---|---|
+| Resolución parcial problema ODS | 4.5 | El prototipo mide corriente RMS en 4 canales con SCT-013, la muestra en web y guarda CSV en microSD, y apunta al ODS 7. No convierte a kWh ni a costo, no hay uso en un hogar real y `testing/` está vacío. |
+| Proceso de iteración | 4.0 | La iteración 1 documenta problemas reales (la pinza no mide con fase y neutro juntos, el ruido se confunde con corriente) y un plan v2. Las iteraciones 2 y 3 son plantilla. La tabla de métricas de mejora parece de plantilla y no de datos medidos, así que no cuenta como evidencia. |
+| Código documentado | 6.5 | `main.ino` (unas 1250 líneas) tiene cabecera, mapa de conectores, `#include` comentados, constantes explicadas y limitaciones declaradas con honestidad. Faltan versiones de librerías y comentarios en el HTML embebido. |
+| Diagramas de circuito | 5.5 | Hay un esquema KiCad completo (ESP32, 2 ADS1115, 4 jacks de pinza y microSD) y `v1_esquema.png`. Faltan valores de componentes, alimentación y direcciones I2C. El cableado es enredado. |
+| Nota Sección 4 | 4.3 | |
+| Nota Sección 5 | 6.0 | |
+
+Fortalezas: código completo con limitaciones declaradas, esquema KiCad e identificación honesta de un problema técnico real.
+
+Mejorar para Avance 3: llenar las iteraciones 2 y 3 con datos medidos y código por versión. Resolver y calibrar la medición con pinza, pasar de corriente a kWh y $, y probar con usuarios. Exportar el esquema con rótulos y repartir mejor los commits (Ignacio Mora no tiene ninguno).

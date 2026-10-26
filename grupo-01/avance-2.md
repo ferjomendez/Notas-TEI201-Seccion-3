@@ -1,0 +1,16 @@
+# Grupo 1: Avance 2
+
+Repo: ClementeAbarzua/camara_detecta_basura_TEI201_2026. Integrantes: Clemente Abarzúa, Matías Armijo, José Tomás De la Cuadra y Santiago León.
+
+| Criterio | Nota | Observación |
+|---|---|---|
+| Resolución parcial problema ODS | 5.0 | El problema está bien fundamentado con datos de Peñalolén (ODS 11 y 12) y el prototipo clasifica "hay/no hay basura" con un dataset propio. Falta evidencia de impacto: no hay usuarios ni métricas, `testing/` es plantilla y el README raíz describe una arquitectura con Raspberry Pi que no es la del prototipo (XIAO ESP32-S3). |
+| Proceso de iteración | 5.0 | Hay tres iteraciones con código real (streaming AP, detección AP/WiFi y versión comentada) y un bug documentado y corregido: el modelo no concluía con baja confianza. Los README de las iteraciones 2 y 3 están intercambiados, y no hay tabla antes/después con métricas ni reportes de pruebas. |
+| Código documentado | 6.5 | La versión final (`iteracion_3`) tiene secciones numeradas, docblocks, librerías identificadas y licencias. Las versiones previas casi no tienen comentarios. |
+| Diagramas de circuito | 3.5 | Solo hay un PDF pictórico (XIAO y batería) sin pines, valores ni leyenda. `hardware/esquemas` es plantilla. |
+| Nota Sección 4 | 5.0 | |
+| Nota Sección 5 | 5.0 | |
+
+Fortalezas: el código final funciona y está comentado, la iteración es real, el dataset es propio y el trabajo se reparte entre varios autores.
+
+Mejorar para Avance 3: corregir los README de iteración y completar métricas reales (precisión, tiempos, batería). Documentar pruebas con fotos y videos y validar en terreno. Entregar un esquema formal (Fritzing o Wokwi) que incluya el interruptor.
