@@ -4,7 +4,7 @@ Correcciones por grupo y por avance. Cada carpeta tiene el detalle de cada corre
 
 ## Avance 2
 
-Las notas de los grupos 2, 3, 5 y 8 incluyen 0.5 puntos de descuento por entrega tardía en cada sección (1.0 punto en total). El grupo 7 tiene solo 0.25 puntos menos en Código documentado, porque fue lo único que entregó tarde.
+Las notas de los grupos 2, 3, 5 y 8 incluyen 0.5 puntos de descuento por entrega tardía en cada sección (1.0 punto en total). El grupo 10 tiene 0.25 puntos menos en cada sección. El grupo 7 tiene solo 0.25 puntos menos en Código documentado, porque fue lo único que entregó tarde.
 
 Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Sección 5 (Documentación Técnica, 8%).
 
@@ -19,7 +19,7 @@ Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Secci
 | [Grupo 7](grupo-07/) | Lentes con vibración (baja visión) | 4.7 | 5.6 |
 | [Grupo 8](grupo-08/) | Estación ambiental IoT | 3.8 | 4.6 |
 | [Grupo 9](grupo-09/) | No entregó | 1.0 | 1.0 |
-| [Grupo 10](grupo-10/) | Sensor de ruido en aulas (TEA) | 3.0 | 2.0 |
+| [Grupo 10](grupo-10/) | Sensor de ruido en aulas (TEA) | 5.3 | 5.5 |
 | [Grupo 11](grupo-11/) | No entregó | 1.0 | 1.0 |
 | [Grupo 12](grupo-12/) | No entregó | 1.0 | 1.0 |
 

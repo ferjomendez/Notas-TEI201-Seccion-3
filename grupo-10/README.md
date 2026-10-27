@@ -6,6 +6,6 @@ Repo: [isiparrab/sensor_ruido_clases](https://github.com/isiparrab/sensor_ruido_
 
 | Avance | Sección 4 (14%) | Sección 5 (8%) | Detalle |
 |---|---|---|---|
-| 2 | 3.0 | 2.0 | [avance-2.md](avance-2.md) |
+| 2 | 5.3 | 5.5 | [avance-2.md](avance-2.md) |
 
 [Volver al índice](../README.md)
