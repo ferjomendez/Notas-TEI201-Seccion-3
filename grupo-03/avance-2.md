@@ -10,9 +10,9 @@ Repo: JoacoAgurto/Monitoreo-electrico-eficiente-IOT-TEI201-GRUPO-03-. Integrante
 | Diagramas de circuito | 5.5 | Hay un esquema KiCad completo (ESP32, 2 ADS1115, 4 jacks de pinza y microSD) y `v1_esquema.png`. Faltan valores de componentes, alimentación y direcciones I2C. El cableado es enredado. |
 | Nota Sección 4 antes de penalización | 4.3 | |
 | Nota Sección 5 antes de penalización | 6.0 | |
-| Penalización por entrega tardía | -1.0 | Se descuenta 1.0 punto a cada sección. |
-| Nota Sección 4 | 3.3 | |
-| Nota Sección 5 | 5.0 | |
+| Penalización por entrega tardía | -0.5 | Se descuenta 0.5 puntos a cada sección (1.0 punto en total). |
+| Nota Sección 4 | 3.8 | |
+| Nota Sección 5 | 5.5 | |
 
 Fortalezas: código completo con limitaciones declaradas, esquema KiCad e identificación honesta de un problema técnico real.
 
@@ -20,4 +20,4 @@ Mejorar para Avance 3: llenar las iteraciones 2 y 3 con datos medidos y código 
 
 ## Comentarios
 
-El código es uno de los más completos y declara con honestidad lo que aún no está implementado. El esquema KiCad también está bien armado. Queda pendiente pasar de corriente a kWh y a pesos para conectar el prototipo con el ODS 7, y probarlo en un hogar real. Las iteraciones 2 y 3 siguen vacías y la tabla de métricas de la iteración 1 no tiene datos medidos, así que no la pude contar como evidencia. Ignacio Mora no tiene commits propios, conviene que todos aporten al repositorio. Se descontó 1.0 punto en cada sección por entrega tardía. Esto se debe a que entregaron fuera de plazo.
+El código es uno de los más completos y declara con honestidad lo que aún no está implementado. El esquema KiCad también está bien armado. Queda pendiente pasar de corriente a kWh y a pesos para conectar el prototipo con el ODS 7, y probarlo en un hogar real. Las iteraciones 2 y 3 siguen vacías y la tabla de métricas de la iteración 1 no tiene datos medidos, así que no la pude contar como evidencia. Ignacio Mora no tiene commits propios, conviene que todos aporten al repositorio. Se descontaron 0.5 puntos en cada sección (1.0 punto en total) por entrega tardía. Esto se debe a que entregaron fuera de plazo.

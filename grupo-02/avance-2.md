@@ -10,9 +10,9 @@ Repo: joaco-eng/Proyecto-tei. Proyecto: sistema detector de nivel anormal en sum
 | Diagramas de circuito | 2.0 | No hay diagrama ni imagen. Solo existe una tabla de pines en el README (TRIG 5, ECHO 4, LED 6 con 220 Ω) que coincide con el código. |
 | Nota Sección 4 antes de penalización | 4.0 | |
 | Nota Sección 5 antes de penalización | 4.0 | |
-| Penalización por entrega tardía | -1.0 | Se descuenta 1.0 punto a cada sección. |
-| Nota Sección 4 | 3.0 | |
-| Nota Sección 5 | 3.0 | |
+| Penalización por entrega tardía | -0.5 | Se descuenta 0.5 puntos a cada sección (1.0 punto en total). |
+| Nota Sección 4 | 3.5 | |
+| Nota Sección 5 | 3.5 | |
 
 Fortalezas: firmware funcional y bien organizado con una máquina de estados clara, portal cautivo sin claves en el código y un historial de commits descriptivo.
 
@@ -20,4 +20,4 @@ Mejorar para Avance 3: agregar un diagrama de conexiones en Wokwi o Fritzing con
 
 ## Comentarios
 
-El código está bien armado y el historial muestra que fueron mejorando el sistema, con WiFi, portal de configuración y monitor web. Lo que falta es la documentación: no hay diagrama de circuito, ni registro de pruebas, ni se dice qué ODS atiende el proyecto. La tabla de pines coincide con el código, pero no reemplaza un diagrama. Para el Avance 3 suban el esquema con el sensor y todos los pines, y dejen por escrito las pruebas y las decisiones técnicas. Se descontó 1.0 punto en cada sección por entrega tardía. Esto se debe a que entregaron fuera de plazo.
+El código está bien armado y el historial muestra que fueron mejorando el sistema, con WiFi, portal de configuración y monitor web. Lo que falta es la documentación: no hay diagrama de circuito, ni registro de pruebas, ni se dice qué ODS atiende el proyecto. La tabla de pines coincide con el código, pero no reemplaza un diagrama. Para el Avance 3 suban el esquema con el sensor y todos los pines, y dejen por escrito las pruebas y las decisiones técnicas. Se descontaron 0.5 puntos en cada sección (1.0 punto en total) por entrega tardía. Esto se debe a que entregaron fuera de plazo.

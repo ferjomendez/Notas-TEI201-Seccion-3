@@ -4,19 +4,19 @@ Correcciones por grupo y por avance. Cada carpeta tiene el detalle de cada corre
 
 ## Avance 2
 
-Las notas de los grupos 2, 3, 5 y 7 incluyen 1.0 punto de descuento por entrega tardía en cada sección.
+Las notas de los grupos 2, 3, 5 y 7 incluyen 0.5 puntos de descuento por entrega tardía en cada sección (1.0 punto en total).
 
 Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Sección 5 (Documentación Técnica, 8%).
 
 | Grupo | Proyecto | Sección 4 | Sección 5 |
 |---|---|---|---|
 | [Grupo 1](grupo-01/) | Cámara detecta basura | 5.0 | 6.3 |
-| [Grupo 2](grupo-02/) | Detector de nivel en sumidero | 3.0 | 3.0 |
-| [Grupo 3](grupo-03/) | Monitoreo eléctrico IoT | 3.3 | 5.0 |
+| [Grupo 2](grupo-02/) | Detector de nivel en sumidero | 3.5 | 3.5 |
+| [Grupo 3](grupo-03/) | Monitoreo eléctrico IoT | 3.8 | 5.5 |
 | [Grupo 4](grupo-04/) | Monitor cardíaco anti-somnolencia | 5.0 | 5.3 |
-| [Grupo 5](grupo-05/) | COStop, alarma de CO | 2.7 | 2.8 |
+| [Grupo 5](grupo-05/) | COStop, alarma de CO | 3.2 | 3.3 |
 | [Grupo 6](grupo-06/) | Sensor de fugas de riego | 5.3 | 5.7 |
-| [Grupo 7](grupo-07/) | Lentes con vibración (baja visión) | 3.7 | 4.8 |
+| [Grupo 7](grupo-07/) | Lentes con vibración (baja visión) | 4.2 | 5.1 |
 | [Grupo 8](grupo-08/) | No entregó | 1.0 | 1.0 |
 | [Grupo 9](grupo-09/) | No entregó | 1.0 | 1.0 |
 | [Grupo 10](grupo-10/) | Sensor de ruido en aulas (TEA) | 3.0 | 2.0 |

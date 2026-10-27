@@ -10,9 +10,9 @@ Repo: mrtn-fl/proyecto_final_TEI201_GRUPO5. Proyecto: COStop, alarma doméstica 
 | Diagramas de circuito | 2.0 | No hay diagrama de conexiones: `hardware/esquemas` es plantilla. Los dos diagramas de flujo de software (estados y nivel) están bien hechos, pero no reemplazan el esquema eléctrico. |
 | Nota Sección 4 antes de penalización | 3.7 | |
 | Nota Sección 5 antes de penalización | 3.8 | |
-| Penalización por entrega tardía | -1.0 | Se descuenta 1.0 punto a cada sección. |
-| Nota Sección 4 | 2.7 | |
-| Nota Sección 5 | 2.8 | |
+| Penalización por entrega tardía | -0.5 | Se descuenta 0.5 puntos a cada sección (1.0 punto en total). |
+| Nota Sección 4 | 3.2 | |
+| Nota Sección 5 | 3.3 | |
 
 Fortalezas: problema bien fundamentado con datos, firmware con decisiones técnicas sólidas (histéresis, confirmación de lecturas, detección de falla del sensor) y documentación de software extensa.
 
@@ -20,4 +20,4 @@ Mejorar para Avance 3: entregar el diagrama de conexiones con los pines del cód
 
 ## Comentarios
 
-El problema está bien fundamentado y el código es ordenado y tiene buenas decisiones técnicas. Lo que más les baja la nota es que no hay diagrama de circuito ni registro de iteraciones y pruebas: las carpetas de iteraciones y testing siguen con la plantilla. Casi todo el repositorio se subió el 26 de octubre, y todos los commits son de una sola persona. Para el Avance 3 suban el esquema con los pines, documenten los cambios que sí hicieron (como pasar de DHT22 a DHT11) y muestren evidencia del sistema funcionando. Se descontó 1.0 punto en cada sección por entrega tardía. Esto se debe a que entregaron fuera de plazo.
+El problema está bien fundamentado y el código es ordenado y tiene buenas decisiones técnicas. Lo que más les baja la nota es que no hay diagrama de circuito ni registro de iteraciones y pruebas: las carpetas de iteraciones y testing siguen con la plantilla. Casi todo el repositorio se subió el 26 de octubre, y todos los commits son de una sola persona. Para el Avance 3 suban el esquema con los pines, documenten los cambios que sí hicieron (como pasar de DHT22 a DHT11) y muestren evidencia del sistema funcionando. Se descontaron 0.5 puntos en cada sección (1.0 punto en total) por entrega tardía. Esto se debe a que entregaron fuera de plazo.

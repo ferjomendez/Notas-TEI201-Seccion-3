@@ -6,6 +6,6 @@ Repo: [Macarena2026/proyecto_final_TEI201](https://github.com/Macarena2026/proye
 
 | Avance | Sección 4 (14%) | Sección 5 (8%) | Detalle |
 |---|---|---|---|
-| 2 | 3.7 | 4.8 | [avance-2.md](avance-2.md) |
+| 2 | 4.2 | 5.1 | [avance-2.md](avance-2.md) |
 
 [Volver al índice](../README.md)
