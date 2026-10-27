@@ -14,7 +14,7 @@ Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Secci
 | [Grupo 2](grupo-02/) | Detector de nivel en sumidero | 3.5 | 3.5 |
 | [Grupo 3](grupo-03/) | Monitoreo eléctrico IoT | 4.3 | 5.9 |
 | [Grupo 4](grupo-04/) | Monitor cardíaco anti-somnolencia | 5.0 | 5.3 |
-| [Grupo 5](grupo-05/) | COStop, alarma de CO | 3.2 | 3.3 |
+| [Grupo 5](grupo-05/) | COStop, alarma de CO | 5.0 | 5.0 |
 | [Grupo 6](grupo-06/) | Sensor de fugas de riego | 5.3 | 5.7 |
 | [Grupo 7](grupo-07/) | Lentes con vibración (baja visión) | 4.7 | 5.6 |
 | [Grupo 8](grupo-08/) | Estación ambiental IoT | 3.8 | 4.6 |

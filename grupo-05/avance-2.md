@@ -1,23 +1,23 @@
 # Grupo 5: Avance 2
 
-Repo: mrtn-fl/proyecto_final_TEI201_GRUPO5. Proyecto: COStop, alarma doméstica de monóxido de carbono. Integrantes: Benjamín Bidegain, Martín Flores, Vicente Pincheira y Thomas Von Fabeck. Casi todo el trabajo se subió el 26 de octubre y el repo sigue recibiendo commits.
+Repo: mrtn-fl/proyecto_final_TEI201_GRUPO5. Proyecto: COStop, alarma doméstica de monóxido de carbono. Integrantes: Benjamín Bidegain, Martín Flores, Vicente Pincheira y Thomas Von Fabeck. Se re-evaluó con lo subido hasta el 27 de octubre.
 
 | Criterio | Nota | Observación |
 |---|---|---|
-| Resolución parcial problema ODS | 4.8 | El README plantea bien el problema (intoxicaciones por CO en el sur de Chile, adultos mayores y niños) y el firmware implementa una alarma con umbrales, histéresis y confirmación de lecturas. Falta evidencia de funcionamiento (capturas del monitor serial, Wokwi, fotos o video), pruebas con CO real o con usuarios y los próximos pasos. |
-| Proceso de iteración | 2.5 | Las carpetas `iteraciones/` y `testing/` son la plantilla sin llenar y hay un solo commit de código. Solo hay indicios de cambios menores en la documentación (DHT22 a DHT11, botón BOOT provisorio, tiempo de calentamiento). No hay versiones comparadas ni problemas y soluciones propios. |
-| Código documentado | 5.5 | Un sketch de 162 líneas con variables descriptivas, constantes comentadas, funciones separadas (`leerMQ`, `revisarBoton` con antirrebote) y una máquina de estados. La librería DHT está documentada. Los comentarios son breves, falta una cabecera y las versiones de librerías quedaron como `v[x]`. |
-| Diagramas de circuito | 2.0 | No hay diagrama de conexiones: `hardware/esquemas` es plantilla. Los dos diagramas de flujo de software (estados y nivel) están bien hechos, pero no reemplazan el esquema eléctrico. |
-| Nota Sección 4 antes de penalización | 3.7 | |
-| Nota Sección 5 antes de penalización | 3.8 | |
+| Resolución parcial problema ODS | 5.5 | El problema está bien fundamentado (intoxicaciones por CO en el sur de Chile, adultos mayores y niños) y el firmware implementa una alarma con umbrales, histéresis y confirmación de lecturas. Ahora hay además una caja diseñada en MDF con su justificación, renders y planos. Falta evidencia de funcionamiento (fotos, video, monitor serial) y pruebas con CO real o con usuarios. |
+| Proceso de iteración | 5.5 | `iteraciones/README.md` cuenta la evolución de v1 a v2: de protoboard con botón BOOT y alimentación por USB a placa soldada con batería LiPo, TP4056, pulsador dedicado e interruptor. Incluye problemas, razones e impacto de cada cambio, y se guardaron `v1_codigo.ino` y `v1_esquema.jpg`. Quedan marcadores `[COMPLETAR]` y `[medir]`, no hay fotos de cada versión y el README dice que el software no cambió, aunque el código pasó de DHT22 a DHT11. |
+| Código documentado | 7.0 | `codigo_esp32.ino` tiene cabecera con descripción y funcionamiento, pines y parámetros comentados, una máquina de estados clara y funciones separadas. La documentación de software explica funciones, librerías, instalación y operación, con dos diagramas de flujo. |
+| Diagramas de circuito | 4.0 | Hay un diagrama en Wokwi (MQ-7, DHT22, buzzer y botón) y el esquema v1. Está hecho con una ESP32 clásica y no con la S3 Super Mini del código, no incluye el LED RGB y los pines no calzan con los GPIO del código (MQ-7 en 1, buzzer en 5, LED en 6, 8 y 9). Los planos del encapsulado son mecánicos, no eléctricos. |
+| Nota Sección 4 antes de penalización | 5.5 | |
+| Nota Sección 5 antes de penalización | 5.5 | |
 | Penalización por entrega tardía | -0.5 | Se descuenta 0.5 puntos a cada sección (1.0 punto en total). |
-| Nota Sección 4 | 3.2 | |
-| Nota Sección 5 | 3.3 | |
+| Nota Sección 4 | 5.0 | |
+| Nota Sección 5 | 5.0 | |
 
-Fortalezas: problema bien fundamentado con datos, firmware con decisiones técnicas sólidas (histéresis, confirmación de lecturas, detección de falla del sensor) y documentación de software extensa.
+Fortalezas: problema bien fundamentado, firmware con decisiones técnicas sólidas (histéresis, confirmación de lecturas, detección de falla del sensor), documentación de software extensa, historial de iteraciones con justificación y diseño de encapsulado completo.
 
-Mejorar para Avance 3: entregar el diagrama de conexiones con los pines del código, documentar las iteraciones propias, aportar evidencia de funcionamiento y datos de calibración del MQ-7, y repartir los commits entre los integrantes (todos son de una sola cuenta) subiéndolos de forma progresiva.
+Mejorar para Avance 3: rehacer el diagrama con la placa real (ESP32-S3 Super Mini), el LED RGB, la batería y el TP4056, con los pines del código. Completar los marcadores pendientes de la iteración 1, agregar fotos de cada versión, aportar evidencia de funcionamiento y datos de calibración del MQ-7, y probar con usuarios.
 
 ## Comentarios
 
-El problema está bien fundamentado y el código es ordenado y tiene buenas decisiones técnicas. Lo que más les baja la nota es que no hay diagrama de circuito ni registro de iteraciones y pruebas: las carpetas de iteraciones y testing siguen con la plantilla. Casi todo el repositorio se subió el 26 de octubre, y todos los commits son de una sola persona. Para el Avance 3 suban el esquema con los pines, documenten los cambios que sí hicieron (como pasar de DHT22 a DHT11) y muestren evidencia del sistema funcionando. Se descontaron 0.5 puntos en cada sección (1.0 punto en total) por entrega tardía. Esto se debe a que entregaron fuera de plazo.
+Avanzaron bastante desde la primera revisión y se nota el esfuerzo del grupo. Ahora hay historial de iteraciones, código bien comentado, esquema, diseño 3D y una justificación de la caja, y los commits vienen de varios integrantes. Lo que más pesa en la nota es el diagrama: usa otra placa, no tiene el LED RGB y los pines no coinciden con los del código. Faltan también fotos y evidencia del sistema funcionando. Para el Avance 3 rehagan el esquema con los componentes reales y registren pruebas. Se descontaron 0.5 puntos en cada sección (1.0 punto en total) por entrega tardía. Esto se debe a que entregaron fuera de plazo.
