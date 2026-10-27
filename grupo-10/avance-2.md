@@ -14,3 +14,7 @@ Repo: isiparrab/sensor_ruido_clases. Integrantes: Matilda Steiner, Isidora Parra
 Fortalezas: planteamiento del problema claro y fundamentado, concepto de solución coherente y repo ordenado según la plantilla.
 
 Mejorar para Avance 3: subir el código del micrófono y el semáforo, con comentarios y librerías, y entregar el esquema del circuito. Documentar de 2 a 3 iteraciones con fecha y antes/después, calibrar contra un sonómetro y registrar las pruebas. Hacer que todo el grupo registre su aporte en commits.
+
+## Comentarios
+
+El planteamiento del problema es claro y la idea del semáforo luminoso con botón manual es coherente. Pero el repositorio solo tiene la plantilla del curso: no hay código, esquema, fotos ni pruebas, y las carpetas de iteraciones están vacías. Con lo entregado no se puede evaluar un prototipo. Para el Avance 3 necesitan subir el código del micrófono y el semáforo, el diagrama del circuito y evidencia de pruebas, y que todo el grupo deje su aporte en los commits.

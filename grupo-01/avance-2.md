@@ -14,3 +14,7 @@ Repo: ClementeAbarzua/camara_detecta_basura_TEI201_2026. Integrantes: Clemente A
 Fortalezas: el código final funciona y está comentado, la iteración es real, el dataset es propio y el trabajo se reparte entre varios autores.
 
 Mejorar para Avance 3: corregir los README de iteración y completar métricas reales (precisión, tiempos, batería). Documentar pruebas con fotos y videos y validar en terreno. Entregar un esquema formal (Fritzing o Wokwi) que incluya el interruptor.
+
+## Comentarios
+
+Tienen un buen avance en el código: la versión final está ordenada, comentada y con las librerías identificadas, y el trabajo se nota repartido entre varios. Lo que más pesa en la nota es la falta de evidencia de impacto y de pruebas. Los README de las iteraciones 2 y 3 están cambiados de lugar y no hay métricas de antes y después. El diagrama de circuito no muestra pines ni valores. Para el Avance 3 pasen el esquema a Fritzing o Wokwi con todos los pines, y documenten pruebas con resultados medidos.

@@ -14,3 +14,7 @@ Repo: Macarena2026/proyecto_final_TEI201. Integrantes: Macarena Aldana, Sofía G
 Fortalezas: problema bien acotado, dos versiones de circuito y de diseño 3D, diagramas legibles y autoría repartida entre las tres integrantes.
 
 Mejorar para Avance 3: subir el código comentado (VL53L0X) y documentar iteraciones y pruebas con usuarios (distancia de detección, tiempo de respuesta). Mejorar el esquema con Fritzing o Wokwi, indicando modelo de placa y alimentación. Convertir las fotos a un formato estándar.
+
+## Comentarios
+
+El problema está bien acotado y los diagramas son legibles y cambian entre versiones, lo que respalda la iteración. El mayor vacío es que el repositorio no tiene código, por lo que el sistema no se puede replicar. Tampoco explican cómo el prototipo resuelve el problema, ni dejaron pruebas. Para el Avance 3 suban el código comentado, indiquen el modelo de la placa y la alimentación en el esquema (hoy aparecen 5 V y 3,3 V a la vez) y registren distancia de detección y tiempo de respuesta.

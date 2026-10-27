@@ -13,6 +13,8 @@ Repo: mkind06/sensor_fugas_TEI201-. Autores en git: mkind06 y andresgarcia-ing (
 
 Fortalezas: documentación honesta que separa lo medido de lo supuesto, código sin dependencias y bien comentado, y fallas de hardware diagnosticadas con registro.
 
-Comentario del profesor: no se ve bien dejar a Claude como contributor del repositorio.
-
 Mejorar para Avance 3: guardar el registro físico continuo y evidencia de los 3 estados, y calibrar con volumen conocido. Entregar un esquema eléctrico real, identificar integrantes y roles, repartir los commits en el tiempo (81 en 2 días) y probar en terreno.
+
+## Comentarios
+
+Es de los trabajos mejor documentados: separan lo medido de lo supuesto, el código no depende de librerías externas y dejaron registro de los problemas de hardware y cómo los resolvieron. Falta el registro físico continuo de 5 minutos, una comparación cuantitativa antes y después, y un esquema eléctrico con símbolos. El README no lista a los integrantes. Comentario del profesor: no se ve bien dejar a Claude como contributor del repositorio.

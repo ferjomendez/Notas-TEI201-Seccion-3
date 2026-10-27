@@ -14,3 +14,7 @@ Repo: JoacoAgurto/Monitoreo-electrico-eficiente-IOT-TEI201-GRUPO-03-. Integrante
 Fortalezas: código completo con limitaciones declaradas, esquema KiCad e identificación honesta de un problema técnico real.
 
 Mejorar para Avance 3: llenar las iteraciones 2 y 3 con datos medidos y código por versión. Resolver y calibrar la medición con pinza, pasar de corriente a kWh y $, y probar con usuarios. Exportar el esquema con rótulos y repartir mejor los commits (Ignacio Mora no tiene ninguno).
+
+## Comentarios
+
+El código es uno de los más completos y declara con honestidad lo que aún no está implementado. El esquema KiCad también está bien armado. Queda pendiente pasar de corriente a kWh y a pesos para conectar el prototipo con el ODS 7, y probarlo en un hogar real. Las iteraciones 2 y 3 siguen vacías y la tabla de métricas de la iteración 1 no tiene datos medidos, así que no la pude contar como evidencia. Ignacio Mora no tiene commits propios, conviene que todos aporten al repositorio.

@@ -14,3 +14,7 @@ Repo: sophifuenzalidaa13/TEI201_Bitacora. Integrantes: Sophia Fuenzalida, Sofía
 Fortalezas: firmware funcional con calibración personalizada y web móvil, problema respaldado con un dato y encapsulado coherente (.f3d y plano con dimensiones).
 
 Mejorar para Avance 3: documentar las iteraciones reales con fechas y antes/después. Probar con 5 o más usuarios y registrar BPM y falsos positivos. Subir un diagrama coherente con el .ino y ordenar el repo (código en `software/src`).
+
+## Comentarios
+
+El firmware funciona y está bien estructurado, con calibración personalizada y una web para el celular. Usar un potenciómetro en lugar del sensor de pulso no les baja la nota, porque Wokwi no tenía el sensor. Lo que sí pesa es que el buzzer aparece en el GPIO 18 en el diagrama y en el GPIO 3 en el código. Dicen estar en la v10, pero no documentan de la v1 a la v9, y no explican por qué un cambio en el BPM indica somnolencia. Para el Avance 3 incluyan el sensor real con los pines correctos y registren las pruebas.
