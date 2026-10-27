@@ -4,8 +4,6 @@ Correcciones por grupo y por avance. Cada carpeta tiene el detalle de cada corre
 
 ## Avance 2
 
-Las notas de los grupos 2, 5 y 8 incluyen 0.5 puntos de descuento por entrega tardía en cada sección (1.0 punto en total). El grupo 10 tiene 0.25 puntos menos en cada sección. El grupo 3 tiene solo 0.2 puntos menos en Código documentado, porque la documentación del código se subió tarde (commit del 24 de octubre). El grupo 7 tiene solo 0.25 puntos menos en Código documentado, porque fue lo único que entregó tarde.
-
 Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Sección 5 (Documentación Técnica, 8%).
 
 | Grupo | Proyecto | Sección 4 | Sección 5 |
