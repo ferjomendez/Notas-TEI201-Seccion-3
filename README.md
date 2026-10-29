@@ -16,7 +16,7 @@ Corrección de la Sección 4 (Evidencia de Iteración y Testing, 14%) y la Secci
 | [Grupo 6](grupo-06/) | Sensor de fugas de riego | 5.3 | 5.7 |
 | [Grupo 7](grupo-07/) | Lentes con vibración (baja visión) | 4.7 | 5.6 |
 | [Grupo 8](grupo-08/) | Estación ambiental IoT | 3.8 | 4.6 |
-| [Grupo 9](grupo-09/) | No entregó | 1.0 | 1.0 |
+| [Grupo 9](grupo-09/) | AquaSafe (monitor de calidad del agua) | 4.0 | 4.5 |
 | [Grupo 10](grupo-10/) | Sensor de ruido en aulas (TEA) | 5.3 | 5.5 |
 | [Grupo 11](grupo-11/) | Medidor UV con semáforo | 5.5 | 5.8 |
 | [Grupo 12](grupo-12/) | No entregó | 1.0 | 1.0 |
