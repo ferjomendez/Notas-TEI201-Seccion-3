@@ -8,4 +8,8 @@ Repo: [ClementeAbarzua/camara_detecta_basura_TEI201_2026](https://github.com/Cle
 |---|---|---|---|
 | 2 | 5.0 | 6.3 | [avance-2.md](avance-2.md) |
 
+| Avance | Software (30%) | Esquemático y BOM | GitHub (5%) | Detalle |
+|---|---|---|---|---|
+| 3 | 7.0 | 5.0 | 6.8 | [avance-3.md](avance-3.md) |
+
 [Volver al índice](../README.md)

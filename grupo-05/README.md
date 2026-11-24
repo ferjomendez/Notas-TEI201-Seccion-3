@@ -8,4 +8,8 @@ Repo: [mrtn-fl/proyecto_final_TEI201_GRUPO5](https://github.com/mrtn-fl/proyecto
 |---|---|---|---|
 | 2 | 5.0 | 5.0 | [avance-2.md](avance-2.md) |
 
+| Avance | Software (30%) | Esquemático y BOM | GitHub (5%) | Detalle |
+|---|---|---|---|---|
+| 3 | 6.1 | 4.0 | 6.3 | [avance-3.md](avance-3.md) |
+
 [Volver al índice](../README.md)
